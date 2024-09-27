@@ -186,7 +186,7 @@ header .navbar ul li a:hover {
   display: inline-block;
   width: 60px; /* Adjust to fit your logo size */
   height:60px;
-  background: url('/Portfolio-Website/assets/images/Logo.png') no-repeat center center;
+  background: url('/assets/images/myLogo.png') no-repeat center center;
   background-size: contain;
   margin-right: 5px; /* Space between the logo and text */
 }

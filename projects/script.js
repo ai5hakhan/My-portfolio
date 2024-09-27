@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
+            document.title = "Projects | Portfolio Aisha Khan";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
@@ -47,8 +47,8 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
-      <div class="content">
+      <img draggable="false"  src="assets/images/${project.image}.png" alt="project" />
+      <div class="content"> 
         <div class="tag">
         <h3>${project.name}</h3>
         </div>
