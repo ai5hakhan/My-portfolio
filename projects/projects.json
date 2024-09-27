@@ -1,0 +1,64 @@
+[
+  {
+    "name": "ContentCrafter-AI",
+    "desc": " AI Content Generator App built Using Next.js, React, Tailwind CSS, TypeScript, Gemini, Clerk.  ",
+    "image": "contentcrafter.png",
+    "category": "web development",
+    "links": {
+      "view": "https://ai-content-crafter.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-content-crafter.vercel.app%2F",
+      "code": "https://github.com/ai5hakhan/ContentCrafter-AI"
+    }
+  },
+  {
+    "name": "Jarvis-personal desktop assistant",
+    "desc": "AI-powered desktop assistant designed to streamline your daily tasks and enhance user interaction through machine learning capabilities.",
+    "image": "assistant.png",
+    "category": "artificial intelligence",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/ai5hakhan/AI-assistant"
+    }
+  },
+  {
+    "name": "GlamLab",
+    "desc": "A makeover game where users,can create virtual outfits using available fashion items available on shopping platform,",
+    "image": "glamlab.png",
+    "category": "web development",
+    "links": {
+      "view": "https://github.com/ai5hakhan/GlamLab-coderellas/blob/main/Solution%20Video/AmityUniversity_Coderella%20(1).mp4",
+      "code": "https://github.com/ai5hakhan/GlamLab-coderellas"
+    }
+  },
+  {
+    "name": "Food Ordering Chatbot",
+    "desc": "Dialogflow chatbot for a food delivery system, covering essential NLP concepts like intents, entities, and contexts.",
+    "image": "FoodBot.png",
+    "category": "artificial intelligence",
+    "links": {
+      "view": "https://bot.dialogflow.com/e3f3878e-ed5e-4b25-b6ec-276a0b37dc0d",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Cybersecurity Intelligent Framework",
+    "desc": "Upcoming",
+    "image": "cyber.png",
+    "category": "artificial intelligence",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "Personal Portfolio Website of Aisha. Just Scroll Down. You're Here Only!",
+    "image": "portfolio.png",
+    "category": "web development",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+
+]
+  
